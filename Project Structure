@@ -1,0 +1,5 @@
+Java-Swing-User-Manager/
+└── src/
+└── sample2/
+├── connection.java # Main GUI file
+└── SQLiteConnect.java # Handles database logic
