@@ -25,5 +25,5 @@ https://github.com/amulyakaleru07/JavaSwingUserManager/blob/b97ccc8087e0a350c0ed
 https://github.com/amulyakaleru07/JavaSwingUserManager/blob/ce8ff119c4135f962b4c00091fb71c2edf87b0e3/Screenshot%202025-06-23%20230702.png
 https://github.com/amulyakaleru07/JavaSwingUserManager/blob/737c3e3e5dcc284f799b4e8ef84382e485778feb/Screenshot%202025-06-23%20234134.png
 
-## License
-MIT
+
+
