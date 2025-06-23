@@ -1,1 +1,31 @@
+## 🛠️ How to Run This Project
+
+### 1. **Install Requirements**
+- Java JDK 8 or above
+- SQLite JDBC Driver (Download: [https://bit.ly/sqlite-jdbc](https://bit.ly/sqlite-jdbc))
+
+### 2. **Clone the Repository**
+```bash
+git clone https://github.com/amulyakaleru07/JavaSwingUserManager
+
+2. Import in Eclipse (or any IDE)
+Open Eclipse → File → Import → Existing Projects into Workspace
+
+Select the cloned folder
+
+Add the SQLite JDBC .jar file to your build path
+
+3.Set up Database (Optional)
+You can create a file like users.db and define a table like:
+CREATE TABLE users (
+    name TEXT,
+    password TEXT,
+    username TEXT PRIMARY KEY,
+    role TEXT
+);
+
+4.Run the Application
+Run connection.java as a Java Application
+The GUI will launch, and you can start using it
+
 
