@@ -22,5 +22,7 @@ This is a simple Java Swing application that demonstrates a basic User Managemen
 
 https://github.com/amulyakaleru07/JavaSwingUserManager/blob/ae68b41e6cd3cb7ab3f13a393e904db05ab7eaf4/Screenshot%202025-06-23%20230601.png
 https://github.com/amulyakaleru07/JavaSwingUserManager/blob/b97ccc8087e0a350c0ed0f1d147d42da308962d6/Screenshot%202025-06-23%20230643.png
+https://github.com/amulyakaleru07/JavaSwingUserManager/blob/ce8ff119c4135f962b4c00091fb71c2edf87b0e3/Screenshot%202025-06-23%20230702.png
+
 ## License
 MIT
